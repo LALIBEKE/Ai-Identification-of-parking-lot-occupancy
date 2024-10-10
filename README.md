@@ -3,8 +3,9 @@ parking lot cameras to identify empty spots. The model was trained to recognize 
 through image processing in Python. Technologies used include React, CSS, HTML, Python, MySQL Server, and
 Flask.
 
+![image](https://github.com/user-attachments/assets/358baf70-09f5-4124-8b8c-eaec903b5c63)
 
-![Alternative text](https://drive.google.com/uc?export=view&id=1Nng-o-UHm2vPenmralCB9YydjtStA8SW)
+![image (9)](https://github.com/user-attachments/assets/ea3b3990-2df6-4c8f-8f29-59ff62dc1941)
 
 **Steps in running the project:**
 
